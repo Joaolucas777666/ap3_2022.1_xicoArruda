@@ -3,7 +3,7 @@
 ## Exercícios resolvidos por Xico em sala de aula
 1. Aprimoramento da classe Contato, composição com as classes Endereço, Estado, enum CEP e implementação de serialização e *interface* Pessoa.
 
-## Exercícios para os alunos - 3,0 pontos se entregar até ??/09/2022
+## Exercícios para os alunos - 3,0 pontos se entregar até 06/10/2022
 
 ### 1. Construa o ProjetoFilme em Java, que obedece a descrição a seguir:
 ![Classe Filme](classeFilme.jpg)
