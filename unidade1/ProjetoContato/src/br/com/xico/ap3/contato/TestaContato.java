@@ -30,5 +30,7 @@ public class TestaContato {
         contatoXico.setNomeCompleto("Xico Arruda");
 
         System.out.println(contatoXico);
+        
+        
     }
 }
